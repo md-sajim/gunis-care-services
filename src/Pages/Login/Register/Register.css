@@ -1,0 +1,11 @@
+.anther-one-style {
+  margin-right: 20px;
+}
+.anther-one-style form input {
+  display: block;
+  width: 90%;
+  padding: 10px;
+  height: 35px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
